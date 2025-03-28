@@ -1,4 +1,4 @@
 #include "config.h"
 
-unsigned long modbusReadFreqHz = 200;
-unsigned long canSendFreqHz = 200;
+unsigned long modbusReadFreqHz = 50;
+unsigned long canSendFreqHz =50;
